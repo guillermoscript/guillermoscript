@@ -42,15 +42,13 @@ Hello, World! 👋 I'm Guillermo, a wizard 🧙‍♂️ in the realm of Full St
 #### Front End Developer (June 2023 - Current)
 - Pioneered the new platform page with Next.js, charting the course for web3 analytics.
 - Summoned react query and Nivo Chart to envision a Dashboard for the elite.
-- Wove Stripe into the fabric of the platform for secure and effortless transactions.
-- Harnessed the intellect of Open AI GPT-4 for a search experience akin to conversing with a sage.
+- Wove Strapi into the fabric of the platform for awesonme blogs
 
 ### 🎮 P2EAnalytics ([p2eanalytics.com](https://p2eanalytics.com/))
 #### Front End Developer (December 2022 - June 2023)
 - Reimagined the landing page with Next.js, elevating the user journey.
 - Crafted an Apex Chart-powered Dashboard, turning data into visual epics.
-- Integrated Stripe, the monetary thread that binds users to services.
-- Transmuted WordPress into a headless Next.js application, achieving an 80% increase in the speed of light.
+- Transmuted WordPress into a headless Next.js application, achieving an 80% increase in the speed.
 
 ### 🐾 InstaPet ([portal.instapet.art/home](https://portal.instapet.art/home))
 #### Lead Developer (December 2022 - April 2023)
