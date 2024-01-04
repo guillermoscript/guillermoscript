@@ -80,3 +80,5 @@ If you're in search of a developer who can blend the art of design with the scie
 🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-marin-dev/) | 🔗 [Upwork](https://www.upwork.com/freelancers/~01608584c4871fe695)
 
 ![Guillermo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guillermoscript&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillermoscript&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&langs_count=10)
