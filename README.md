@@ -28,11 +28,11 @@ Hello, World! 👋 I'm Guillermo, a Senior Full Stack Developer and AI Solutions
 
 ## 🏗️ Projects & Impact
 
-- **AI BI Platform (DataMission):** BI dashboards, secure APIs, GPT-powered insights, RFP automation.
-- **PrecioPana:** Grocery price-comparison SaaS, AI shopping copilot, WhatsApp RAG bot, 10k+ MAU.
-- **Repo Assistant AI:** Enterprise GitHub app for automated repo management, ML-powered issue classification.
-- **LMS-AI:** Adaptive learning platform with Google Gemini/OpenAI APIs, real-time feedback, top 1% in competition.
-- **Villa De Marcos:** Hospitality booking platform (Next/React/Node/Stripe), WhatsApp LLM concierge, 95% CSAT.
+- **Repo Assistant AI:** Enterprise GitHub app for automated repo management, ML-powered issue classification. Part of github developer program
+- [**Villa De Marcos**](https://villademarcos.com/): Hospitality booking platform (Next/React/Node/Stripe), WhatsApp LLM concierge, 95% CSAT.
+- [**PrecioPana**](https://preciopana.com/): Grocery price-comparison SaaS, AI shopping copilot, WhatsApp RAG bot, 10k+ MAU.
+- [**LMS-AI**](https://lms-front-two.vercel.app/): Adaptive learning platform with Google Gemini/OpenAI APIs, real-time feedback, top 1% in competition.
+- [**DataMission**](https://datamission.ai/): BI dashboards, secure APIs, GPT-powered insights, RFP automation.
 
 ## 🌐 Language Proficiency
 
