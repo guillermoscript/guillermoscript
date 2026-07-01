@@ -2,20 +2,15 @@
 
   <h3>🚀 Senior Full Stack & AI Solutions Architect</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0070f3&center=true&vCenter=true&width=500&lines=Building+Scalable+SaaS+Platforms;Architecting+AI+%2F+LLM+Solutions;Top+1%25+Google+Gemini+Developer;Full+Stack+Fintech+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0070f3&center=true&vCenter=true&width=500&lines=Building+Scalable+SaaS+Platforms;Architecting+AI+%2F+LLM+Solutions;Full+Stack+Fintech+Engineering" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/guillermo-marin-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:guillomarindavila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://www.upwork.com/freelancers/~01608584c4871fe695"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  </p>
 </div>
 
 ---
 
 ### 📑 Executive Summary
 
-Senior Full Stack Developer with **5+ years of experience** delivering high-impact SaaS, RAG systems, and Fintech solutions. Specialized in orchestrating AI/LLM pipelines and building scalable cloud architectures. Proven track record of leading agile teams and driving measurable business growth (30% productivity gains).
+Senior Full Stack Developer with **5+ years of experience** delivering high-impact SaaS, RAG systems, and Fintech solutions. Specialized in orchestrating AI/LLM pipelines and building scalable cloud architectures. Proven track record of leading agile teams and driving measurable business growth.
 
 ---
 
@@ -39,25 +34,25 @@ Senior Full Stack Developer with **5+ years of experience** delivering high-impa
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 PanaGo (Fintech & IoT)</h4>
+      <h4>🚀 Transportation Fintech & IoT</h4>
       <p>Multi-tenant platform for transit digitization. Built an <b>immutable ledger system</b> and real-time <b>IoT GPS tracking</b> for fleet management.</p>
-      <code>React Native</code> <code>Appwrite</code> <code>Traccar</code> <code>IoT</code>
+      <code>React Native</code> <code>Appwrite</code> <code>IoT</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🛒 PrecioPana (AI SaaS)</h4>
-      <p>Grocery comparison engine with <b>10k+ MAU</b>. Featuring a WhatsApp RAG bot and automated scraping of 10k+ daily prices.</p>
+      <h4>🛒 AI Price Comparison SaaS</h4>
+      <p>Grocery comparison engine with <b>10k+ users</b>. Featuring a WhatsApp RAG bot and automated scraping of 10k+ daily prices.</p>
       <code>Next.js</code> <code>Pinecone</code> <code>RAG</code> <code>Puppeteer</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 DataMission (AI BI)</h4>
+      <h4>📊 AI Business Intelligence</h4>
       <p>Enterprise BI dashboard converting <b>Natural Language to SQL</b>. Automated RFP generation via n8n and Gemini integration.</p>
-      <code>GPT-4</code> <code>Node.js</code> <code>n8n</code> <code>SQL Architecture</code>
+      <code>GPT</code> <code>Node.js</code> <code>n8n</code> <code>SQL Architecture</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🏆 LMS-AI (Google Gemini Competition)</h4>
-      <p>Adaptive learning platform ranked in the <b>top 1% globally</b>. Real-time feedback loop powered by Gemini & OpenAI APIs.</p>
+      <h4>🏆 Adaptive AI LMS</h4>
+      <p>Adaptive learning platform with a real-time feedback loop powered by Gemini &amp; OpenAI APIs.</p>
       <code>LLM Agents</code> <code>Google Gemini</code> <code>Adaptive UI</code>
     </td>
   </tr>
@@ -65,18 +60,9 @@ Senior Full Stack Developer with **5+ years of experience** delivering high-impa
 
 ---
 
-### 📊 Performance & Statistics
+### 🤝 Availability
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guillermoscript&color=0070f3&style=flat-square&label=PROFILE+VIEWS" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-I am available for **Senior Engineering roles** and **AI Strategy Consulting**. 
+Available for **Senior Engineering roles** and **AI Strategy Consulting**.
 
 - **Focus:** Helping startups scale from MVP to high-concurrency systems using AI.
 - **Location:** Remote (Global)
-- **Email:** [guillomarindavila@gmail.com](mailto:guillomarindavila@gmail.com)
